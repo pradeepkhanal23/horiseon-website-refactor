@@ -6,7 +6,7 @@ The Horiseon Website Refactor project aims to improve the codebase for accessibi
 
 ## Live Link
 
-The live version of the website can be accessed [here](https://www.google.com).
+The live version of the website can be accessed [here](https://pradeepkhanal23.github.io/horiseon-website-refactor/).
 
 ## Screenshots
 
