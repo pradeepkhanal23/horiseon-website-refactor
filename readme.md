@@ -20,7 +20,7 @@ _Description: The content page showcases the contents and the benefits sections 
 
 To run this project locally, follow these steps:
 
-1. CLone this repository.
+1. Clone this repository.
 2. Open the project directory.
 3. Open the `index.html` file in your preferred web browser.
 
